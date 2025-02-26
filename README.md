@@ -1,2 +1,18 @@
-# Trackable-Project-Management
-Enhanced existing system monitoring tools to enable more efficient task tracking and reporting. Developed automation scripts for real-time system tracking and data accuracy improvements. Implemented intuitive dashboards to visualize task progress and team performance metrics.
+# Trackable Project Management  
+
+## 📌 Description  
+A project management system that enhances task tracking, monitoring, and reporting for efficient workflow management.  
+
+## 🛠️ Technologies Used  
+- **Language:** Python  
+- **Frameworks:** Django  
+- **Tools:** Grafana, Chef  
+
+## 🔥 Features  
+- Real-time task tracking  
+- Automation scripts for system monitoring  
+- Interactive dashboards for project insights  
+
+## 📅 Future Improvements  
+- Integrating AI-based analytics for better predictions  
+- Enhancing UI for a better user experience
