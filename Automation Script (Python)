@@ -1,0 +1,10 @@
+import requests
+
+# Example script for real-time tracking using Grafana API
+def get_task_status(task_id):
+    response = requests.get(f'http://grafana.example.com/api/tasks/{task_id}')
+    task_data = response.json()
+    print(f'Task Status: {task_data["status"]}')
+
+# Call the function
+get_task_status(1)
